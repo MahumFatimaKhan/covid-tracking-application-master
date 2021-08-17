@@ -2,6 +2,7 @@ import React from 'react'
 import "./Login.css"
 function Login() {
     return (
+        
          <div class="Login">
             <div class="title">
             <h2  class="titleText"><span>L</span>ogin</h2>
